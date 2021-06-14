@@ -1,6 +1,6 @@
 #!/bin/bash
 
-##Name of Script##
+echo ">>Name of Script<<"
 echo $0
 
 ##User Information##
